@@ -1,2 +1,2 @@
 # privacy-policy
-Privacy policy for app
+Privacy policy for Site Rover app
